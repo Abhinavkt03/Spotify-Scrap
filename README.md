@@ -1,2 +1,2 @@
 # Spotify-Scrap
-Music Web generally works like Spotify
+This Project is an idea of basic Spotify app
